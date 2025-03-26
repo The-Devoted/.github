@@ -22,3 +22,4 @@
 
 ## Documentation
 <!-- Do any of the changes warrant documentation updates? -->
+<!-- Do any of the changes warrant additions to the user guide? -->
