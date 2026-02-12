@@ -10,7 +10,7 @@ assignees: wondermart
 <!-- Thanks for reporting an issue! Bug reports help us improve and are critical to the development process. Please use this template to report your issue. Edit the text below, and feel free to delete any sections that are not relevant. -->
 
 ## Describe the Issue
-<!-- Plase try to provide a clear and concise description of what the problem is. -->
+<!-- Please try to provide a clear and concise description of what the problem is. -->
 
 Type_your_description_here
 
