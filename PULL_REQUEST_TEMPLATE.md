@@ -27,5 +27,11 @@
 | TK | TK |
 
 ## Documentation
+
 <!-- Do any of the changes warrant documentation updates? -->
+<!-- [ ] No documentation updates are required. -->
+<!-- [ ] The following documentation updates have been made: -->
+
 <!-- Do any of the changes warrant additions to the user guide? -->
+<!-- [ ] The TKTKTK should be added to the user guide. -->
+<!-- [ ] No user guide additions are necessary. -->
