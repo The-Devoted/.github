@@ -28,10 +28,9 @@
 
 ## Documentation
 
-<!-- Do any of the changes warrant documentation updates? -->
-<!-- - [ ] No documentation updates are required. -->
-<!-- - [ ] The following documentation updates have been made: -->
+<!-- Delete any irrelevant documentation checklist items. -->
 
-<!-- Do any of the changes warrant additions to the user guide? -->
-<!-- - [ ] The TKTKTK should be added to the user guide. -->
-<!-- - [ ] No user guide additions are necessary. -->
+- [ ] No documentation updates are required.
+- [ ] The following documentation updates have been made:
+- [ ] The TKTKTK should be added to the user guide.
+- [ ] No user guide additions are necessary.
